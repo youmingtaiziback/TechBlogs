@@ -6,6 +6,7 @@
 * [HIT-alibaba](https://hit-alibaba.github.io/interview/iOS/)
 * [玉令天下的博客](http://yulingtianxia.com/)
 * [OneV's Den](https://onevcat.com/#blog)
+* [编写高质量iOS与OS X代码的52个有效方法](http://www.jianshu.com/p/d440d06994ac)
 
 
 
