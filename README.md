@@ -9,6 +9,7 @@
 * [OneV's Den](https://onevcat.com/#blog)
 * [编写高质量iOS与OS X代码的52个有效方法](http://www.jianshu.com/p/d440d06994ac)
 * [WeRead团队博客](http://wereadteam.github.io/archives/)
+* https://github.com/skyming
 
 
 
