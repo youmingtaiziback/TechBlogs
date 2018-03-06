@@ -10,7 +10,8 @@
 * [编写高质量iOS与OS X代码的52个有效方法](http://www.jianshu.com/p/d440d06994ac)
 * [WeRead团队博客](http://wereadteam.github.io/archives/)
 * [https://github.com/skyming](https://github.com/skyming)
-* https://github.com/aozhimin
+* [https://github.com/aozhimin](https://github.com/aozhimin)
+* [100个gdb小技巧](https://www.gitbook.com/book/wizardforcel/100-gdb-tips/details)
 
 
 
